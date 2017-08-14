@@ -5,6 +5,8 @@ import android.content.Intent;
 import android.content.ServiceConnection;
 import android.os.IBinder;
 
+
+
 public class ActivityForService extends BaseActivity {
 
   private Intent mIntent1;
